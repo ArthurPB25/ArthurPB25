@@ -53,4 +53,4 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)]((https://www.instagram.com/arthur.pb___/?utm_source=ig_web_button_share_sheet))  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ArthurPB25)
 modelo.txt
-Exibindo modelo.txt…
+
