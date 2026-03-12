@@ -25,17 +25,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ---
 
-## 🚀 Meus Projetos
 
-| Projeto               | Preview Online                        | Tecnologias Usadas        |
-|-----------------------|-------------------------------------|--------------------------|
-| Jogo de Adivinhação de Bandeiras | [🔗 Ver online](https://github.com/ArthurPB25/projeto-advinhacao-Bandeiras.git) | HTML / CSS / JS |
-| Portfólio | [🔗 Ver online](https://arthurpb25.github.io/Aula_portfolio/) | HTML / CSS / JS|
-| Gerenciamneto escolar | [🔗 Ver online](https://seu-link.com) | HTML / CSS / JS |
-
-> 💡 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
-
----
 
 ## 💡 Sobre Mim
 
